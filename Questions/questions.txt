@@ -1,1 +1,3 @@
-
+# Questions 
+Print Diamonds: 
+https://quera.org/problemset/9773/
