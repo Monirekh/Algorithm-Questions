@@ -3,3 +3,5 @@ Print Diamonds:
 https://quera.org/problemset/9773/
 4 Numbers: 
 https://quera.org/problemset/177663/
+Unique Numbers:
+https://quera.org/problemset/148099/
