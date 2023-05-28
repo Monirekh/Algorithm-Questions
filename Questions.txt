@@ -5,3 +5,5 @@ https://quera.org/problemset/9773/
 https://quera.org/problemset/177663/
 Unique Numbers:
 https://quera.org/problemset/148099/
+Print Numbers:
+https://quera.org/problemset/9774/
